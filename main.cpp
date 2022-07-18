@@ -1,4 +1,4 @@
-//YAPIMCI: ENESBUYUK.COM 
+//OWNER: ENESBUYUK.COM 
 //GITHUB: Github.com/enesbuyuk
 
 #include <Servo.h> // servo kütüphanesi için
