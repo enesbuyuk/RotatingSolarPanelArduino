@@ -1,2 +1,2 @@
-# rotating-solar-panel-arduino
+# Rotating Solar Panel With Arduino
 rotating solar panel with arduino
